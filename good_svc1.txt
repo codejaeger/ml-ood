@@ -1,0 +1,33 @@
+Available Devices:  [PhysicalDevice(name='/physical_device:CPU:0', device_type='CPU'), PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+Data sizes:  (5997, 1024) (5997,) (937, 1024) (937,) (938, 1024) (938,)
+Betas shape:  (1024, 4081)
+Random dirs shape:  (1024, 1024)
+Min var:  2.4322989399875477e-06 Max var:  0.09346336354222279 Mean var:  tf.Tensor(0.0002685644695989304, shape=(), dtype=float64)
+First 10 Predictions:  [0. 0. 1. 0. 0. 0. 0. 0. 0. 0.]
+Total Positive Preds:  446.0
+Total Preds:  937
+% Positive Preds:  0.4759871931696905
+
+First 10 Ground Truth:  [0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+Total Positive Ground Truth:  421.0
+Total Ground Truth:  937
+% Positive Ground Truth:  0.44930629669156885
+
+Accuracy:  0.6574172892209178
+PR AUC:  0.6981893328076983
+PR AUC (<0.1R):  0.9331263378735635
+PR AUC (<0.2R):  0.9203275976758416
+AUROC:  0.7206010974239998
+Betas similarity:  tf.Tensor(1.0, shape=(), dtype=float32)
+Betas similarity (all pairs):  tf.Tensor(0.17806098, shape=(), dtype=float32)
+(937, 4080) (512, 4081)
+(937, 4080) (512, 4081)
+
+Pred1 tp 0.2660210430622101, fp 0.23114411532878876, tn 0.3195495903491974, fn 0.18328525125980377
+Pred1 tp 0.2660210430622101, fp 0.23114411532878876, tn 0.3195495903491974, fn 0.18328525125980377
+Matching rate tp 1.0, fp 1.0, tn 1.0, fn 1.0
+
+
+All pairs pred similarity: 
+Pred1 tp 0.2660210430622101, fp 0.23114411532878876, tn 0.3195495903491974, fn 0.18328525125980377
+Pred1 tp 0.2660210430622101, fp 0.23114411532878876, tn 0.3195495903491974, fn 0.18328525125980377

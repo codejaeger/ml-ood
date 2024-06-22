@@ -1,0 +1,2 @@
+Available Devices:  [PhysicalDevice(name='/physical_device:CPU:0', device_type='CPU'), PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+Data sizes:  (5997, 1024) (5997,) (938, 1024) (938,) (937, 1024) (937,)

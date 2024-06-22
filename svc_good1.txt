@@ -1,0 +1,64 @@
+Available Devices:  [PhysicalDevice(name='/physical_device:CPU:0', device_type='CPU'), PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+Data sizes:  (5997, 1024) (5997,) (937, 1024) (937,) (938, 1024) (938,)
+PCA dimensions:  (1024, 204)
+PCA dimensions:  (1024, 204)
+Random feat dims:  (5997, 4080)
+Random feat mean:  tf.Tensor(
+[-0.01940941  0.01791825 -0.01949278 ...  0.42428213  0.7441627
+  0.89884096], shape=(4080,), dtype=float32)
+Random feat variance:  tf.Tensor([0.7068565  0.702345   0.6981388  ... 0.59406507 0.329205   0.13843043], shape=(4080,), dtype=float32)
+Step 0
+Filtered points  1200
+Classifier score:  0.9966666666666667
+Filtered points  1201
+Classifier score:  0.9941715237302248
+Filtered points  1200
+Classifier score:  0.995
+Filtered points  1200
+Classifier score:  0.995
+Filtered points  1200
+Classifier score:  0.9958333333333333
+Filtered points  1200
+Classifier score:  0.9958333333333333
+Filtered points  1200
+Classifier score:  0.9966666666666667
+Filtered points  1200
+Classifier score:  0.9933333333333333
+Filtered points  1200
+Classifier score:  0.9933333333333333
+Filtered points  1200
+Classifier score:  0.9966666666666667
+Filtered points  1200
+Classifier score:  0.995
+Filtered points  1200
+Classifier score:  0.995
+Filtered points  1200
+Classifier score:  0.9966666666666667
+Filtered points  1200
+Classifier score:  0.9933333333333333
+Filtered points  1200
+Classifier score:  0.9975
+Filtered points  1200
+Classifier score:  0.9941666666666666
+Filtered points  1200
+Classifier score:  0.9925
+Filtered points  1200
+Classifier score:  0.9958333333333333
+Filtered points  1200
+Classifier score:  0.9908333333333333
+Filtered points  1200
+Classifier score:  0.9966666666666667
+Filtered points  1200
+Classifier score:  0.9941666666666666
+Filtered points  1200
+Classifier score:  0.9983333333333333
+Filtered points  1200
+Classifier score:  0.9908333333333333
+Filtered points  1200
+Classifier score:  0.9933333333333333
+Filtered points  1200
+Classifier score:  0.9975
+Step 25
+Filtered points  1200
+Classifier score:  0.9975
+Filtered points  1200
